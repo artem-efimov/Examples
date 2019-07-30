@@ -1,7 +1,7 @@
 import numpy as np
 from qutip import *
 from numpy  import *
-
+# you are lol
 class Transmon:
     
     def __init__(self, Ec, Ej, d, gamma_rel, gamma_phi, Nc):
